@@ -1,0 +1,56 @@
+[08-Feb-2022 12:15:22 UTC] PHP Warning:  require(/Users/jamesmurphy/Local Sites/nftcard/app/public/wp-blog-header.php): failed to open stream: No such file or directory in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 17
+[08-Feb-2022 12:15:22 UTC] PHP Stack trace:
+[08-Feb-2022 12:15:22 UTC] PHP   1. {main}() /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:0
+[08-Feb-2022 12:15:22 UTC] PHP Fatal error:  require(): Failed opening required '/Users/jamesmurphy/Local Sites/nftcard/app/public/wp-blog-header.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 17
+[08-Feb-2022 12:15:22 UTC] PHP Stack trace:
+[08-Feb-2022 12:15:22 UTC] PHP   1. {main}() /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:0
+[08-Feb-2022 12:15:22 UTC] PHP Warning:  require(/Users/jamesmurphy/Local Sites/nftcard/app/public/wp-blog-header.php): failed to open stream: No such file or directory in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 17
+[08-Feb-2022 12:15:22 UTC] PHP Stack trace:
+[08-Feb-2022 12:15:22 UTC] PHP   1. {main}() /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:0
+[08-Feb-2022 12:15:22 UTC] PHP Fatal error:  require(): Failed opening required '/Users/jamesmurphy/Local Sites/nftcard/app/public/wp-blog-header.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 17
+[08-Feb-2022 12:15:22 UTC] PHP Stack trace:
+[08-Feb-2022 12:15:22 UTC] PHP   1. {main}() /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:0
+[08-Feb-2022 12:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 1
+[08-Feb-2022 12:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 1
+[08-Feb-2022 12:17:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 6
+[08-Feb-2022 12:17:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 6
+[08-Feb-2022 12:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 6
+[08-Feb-2022 12:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 6
+[08-Feb-2022 12:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 9
+[08-Feb-2022 12:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 9
+[08-Feb-2022 12:18:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 26
+[08-Feb-2022 12:18:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 26
+[08-Feb-2022 12:18:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /Users/jamesmurphy/Local Sites/nftcard/app/public/index.php on line 26
